@@ -3,6 +3,6 @@ document.addEventListener("DOMContentLoaded", () => {
     fetch("./data/gustavo.json")
     .then(response => response.json())
     .then((json_content) => {
-        json_area.innerHTML = json_content
+        json_area.innerHTML = JSON.stringify(json_content)
     })
 })
