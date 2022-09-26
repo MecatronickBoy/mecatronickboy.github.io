@@ -6,7 +6,7 @@
                 "departamento":"DIRECCIÓN DE TECNOLOGIAS DE LA INFORMACION",
                 "Estatus":"ACTIVO",
                 "MOTIVO":"HORARIO LABORAL"}
-                ]
+                ],
     "4560759": [
                 {"apellido1":"HIGUERA",
                 "apellido2":"SANCHEZ",
@@ -14,7 +14,7 @@
                 "departamento":"DIRECCIÓN DE TECNOLOGIAS DE LA INFORMACION",
                 "Estatus":"INACTIVO",
                 "MOTIVO":"LICENCIA LABORAL"}
-                ]
+                ],
     "13797449": [
                 {"apellido1":"MALAGON",
                 "apellido2":"BURGUEÑO",
@@ -22,7 +22,7 @@
                 "departamento":"DIRECCIÓN DE TECNOLOGIAS DE LA INFORMACION",
                 "Estatus":"ACTIVO",
                 "MOTIVO":"HORARIO LABORAL"}
-                ]
+                ],
     "13797310": [
                 {"apellido1":"LOPEZ",
                 "apellido2":"GARCIA",
@@ -30,5 +30,5 @@
                 "departamento":"DIRECCIÓN DE INFRAESTRUCTURA",
                 "Estatus":"ACTIVO",
                 "MOTIVO":"HORARIO LABORAL"}
-                  ]
+                  ],
 }
